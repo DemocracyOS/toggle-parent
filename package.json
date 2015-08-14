@@ -1,5 +1,5 @@
 {
-  "name": "toggle-parent",
+  "name": "democracyos-toggle-parent",
   "version": "0.1.0",
   "description": "Toggle class on parent element.",
   "main": "index.js",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mjlescano/toggle-parent.git"
+    "url": "https://github.com/DemocracyOS/toggle-parent.git"
   },
   "author": "Matías Lescano <matiasj.lescano@gmail.com> (http://github.com/mjlescano)",
   "license": "MIT",
